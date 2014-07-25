@@ -1,0 +1,1 @@
+Test to make sure that authorship does not accidentally result in merged taxa

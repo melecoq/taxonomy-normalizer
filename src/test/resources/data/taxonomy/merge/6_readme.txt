@@ -1,0 +1,1 @@
+This is the same test as version 5, but replicated to the subspecies level

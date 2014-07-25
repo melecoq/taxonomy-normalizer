@@ -1,0 +1,5 @@
+id	parentId	scientificName	author	rank
+1		Animalia		K
+2	1	Aus		G
+3	2	Aus bus	Tim Robertson 2010	S		
+4	3	Aus bus cus		SS

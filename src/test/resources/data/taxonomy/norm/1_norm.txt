@@ -1,0 +1,9 @@
+id	parentId	scientificName	author	rank
+1		k		K
+2	1	p		P
+3	2	f		F
+4	3	g		G
+5	4	s	L. 1771	S
+6	5	ss	L. 1771	SS
+7	1	p1		P
+8	7	s	T. 2010	S

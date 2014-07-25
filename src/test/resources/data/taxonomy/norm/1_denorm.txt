@@ -1,0 +1,5 @@
+kingdom	phylum	class	order	family	genus	species	subspecies	author
+k	p			f	g	s		L. 1771
+k	p				g	s		L. 1771
+k	p					s	ss	L. 1771
+k	p1					s		T. 2010		

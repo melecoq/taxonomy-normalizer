@@ -1,0 +1,1 @@
+kingdom	phylum	class	order	family	genus	species	subspecies	authorAnimalia	Chordata	Aves			Amazilia	Amazilia chionogaster	Animalia	Chordata	Aves			Amphispiza	Amphispiza belli			Aves			Amazilia	Amazilia versicolor	

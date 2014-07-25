@@ -1,0 +1,1 @@
+A basic test to show that subspecies and species aren't accidentally collapsed

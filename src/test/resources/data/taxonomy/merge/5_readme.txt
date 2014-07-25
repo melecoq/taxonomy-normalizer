@@ -1,0 +1,1 @@
+A more complex test showing the effects of a nasty homonym:kingdom	phylum	class	order	family	genus	species	subspecies	authora1						g1		b1	c1	d1		f1	g1a1		c1	d1	e1		g1h1			d1	e1		g1	Row 1 and 3 fold nicely together, but the f1 may exist in either a1 or h1, and therefore cannot be inferred to any row at all.  the same is true of b1

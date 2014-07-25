@@ -1,0 +1,1 @@
+A test showing higher holes being inferred when no conflicts exist

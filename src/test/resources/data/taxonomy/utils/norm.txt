@@ -1,0 +1,1 @@
+id	parentId	scientificName	author	rank1		Animalia		kingdom2	1	Chordata		phylum3	2	Mammalia		class4	3	Carnivora		order5	4	Felidae		family6	5	Puma		genus7	6	Puma concolor	Linneaus, 1771	species

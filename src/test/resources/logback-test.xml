@@ -1,0 +1,16 @@
+<configuration>
+
+  <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>%-4relative %-5level [%logger{0}] - %msg%n</pattern>
+    </encoder>
+  </appender>
+
+  <logger name="org.gbif.taxonomy.norm.Normalizer" level="DEBUG"/>
+  <logger name="org.gbif.taxonomy.norm.DenormClassificationUtils" level="INFO"/>
+
+  <root level="DEBUG">
+    <appender-ref ref="CONSOLE"/>
+  </root>
+
+</configuration>
